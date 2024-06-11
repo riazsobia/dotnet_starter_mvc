@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Dotnet-Mvc-BoilerPlate.props" />
+</Project>
